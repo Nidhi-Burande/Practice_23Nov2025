@@ -6,4 +6,4 @@ def get_name(inp_name):
 
 op_get_name = get_name(name)
 print(op_get_name)
-    
+#now it is wrking fine
